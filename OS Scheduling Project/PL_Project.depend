@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1594110205 source:c:\users\room-pc\desktop\pl_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"processInputs.h"
+
+1594632925 c:\users\room-pc\desktop\pl_project\menu.h
+	"FCFS.h"
+	"SJF.h"
+	"SRTF.h"
+	"PP_NPP.h"
+
+1594639838 c:\users\room-pc\desktop\pl_project\fcfs.h
+	"processInputs.h"
+	"Structure.h"
+
+1594640076 c:\users\room-pc\desktop\pl_project\processinputs.h
+	"Structure.h"
+
+1593758190 c:\users\room-pc\desktop\pl_project\structure.h
+
+1594284475 c:\users\room-pc\desktop\pl_project\sjf.h
+	"processInputs.h"
+	"Structure.h"
+
+1594639893 c:\users\room-pc\desktop\pl_project\srtf.h
+	"processInputs.h"
+	"Structure.h"
+
+1594285708 c:\users\room-pc\desktop\pl_project\pp&npp.h
+	"processInputs.h"
+	"Structure.h"
+
+1594640076 c:\users\room-pc\desktop\pl_project\pp_npp.h
+	"processInputs.h"
+	"Structure.h"
+
+1594806316 source:c:\users\room-pc\desktop\pl_project - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"Structure.h"
+
+1595835153 c:\users\room-pc\desktop\pl_project - copy\menu.h
+	"Algorithms.h"
+	"processInputs.h"
+	"ConsoleColor.h"
+
+1594639838 c:\users\room-pc\desktop\pl_project - copy\fcfs.h
+	"processInputs.h"
+	"Structure.h"
+
+1594890610 c:\users\room-pc\desktop\pl_project - copy\processinputs.h
+	"Structure.h"
+
+1594641468 c:\users\room-pc\desktop\pl_project - copy\structure.h
+
+1594284475 c:\users\room-pc\desktop\pl_project - copy\sjf.h
+	"processInputs.h"
+	"Structure.h"
+
+1594639893 c:\users\room-pc\desktop\pl_project - copy\srtf.h
+	"processInputs.h"
+	"Structure.h"
+
+1594640076 c:\users\room-pc\desktop\pl_project - copy\pp_npp.h
+	"processInputs.h"
+	"Structure.h"
+
+1595836118 c:\users\room-pc\desktop\pl_project - copy\algorithms.h
+	"Structure.h"
+	"processInputs.h"
+	"ConsoleColor.h"
+
+1594888290 c:\users\room-pc\desktop\pl_project - copy\consolecolor.h
+
+1594806316 source:c:\users\room-pc\desktop\os scheduling project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Menu.h"
+	"Structure.h"
+
+1597240340 c:\users\room-pc\desktop\os scheduling project\menu.h
+	"Algorithms.h"
+	"IOBurst.h"
+	"processInputs.h"
+	"ConsoleColor.h"
+
+1597237408 c:\users\room-pc\desktop\os scheduling project\algorithms.h
+	"Structure.h"
+	"processInputs.h"
+	"ConsoleColor.h"
+
+1597236049 c:\users\room-pc\desktop\os scheduling project\structure.h
+
+1597238345 c:\users\room-pc\desktop\os scheduling project\processinputs.h
+	"Structure.h"
+
+1594888290 c:\users\room-pc\desktop\os scheduling project\consolecolor.h
+
+1597241627 c:\users\room-pc\desktop\os scheduling project\ioburst.h
+	"Structure.h"
+	"processInputs.h"
+	"ConsoleColor.h"
+
